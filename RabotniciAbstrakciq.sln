@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabotniciAbstrakciq", "RabotniciAbstrakciq\RabotniciAbstrakciq.csproj", "{A89962FA-37B6-457D-8992-956B1322A33F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A89962FA-37B6-457D-8992-956B1322A33F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89962FA-37B6-457D-8992-956B1322A33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89962FA-37B6-457D-8992-956B1322A33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89962FA-37B6-457D-8992-956B1322A33F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {576FEA01-1C57-42F6-994F-E52BB3C3F21B}
+	EndGlobalSection
+EndGlobal
